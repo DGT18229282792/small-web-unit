@@ -30,12 +30,6 @@ export default {
   }
 }
 </script>
-<style lang="scss" scoped="" type="text/css">
-
-.name{
-  color: red
-}
-</style>
 
 
 
