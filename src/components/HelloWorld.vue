@@ -17,7 +17,6 @@ const list = () => ['精选', '美食']
 export default {
   data () {
     return {      
-
     }
   },
   components:{
