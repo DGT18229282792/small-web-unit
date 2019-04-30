@@ -1,21 +1,9 @@
-# vuetest
+前提条件：安装了node环境，以及vue-cli脚手架工具，具体安装步骤在网上查看。
 
-> A Vue.js project
+第一步：下载包到本地
 
-## Build Setup
+第二步：进入文件夹，运行npm i 安装依赖包。如果安装了镜像的可以运行cnpm i
+       i是install的简写形式，以下用cnpm形式代替npm
+第三步：在目录文件下终端运行 cnpm run dev(开发环境)，在链接中打开。默认端口是8080；
 
-``` bash
-# install dependencies
-npm install
 
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
